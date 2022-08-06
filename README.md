@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sercan</h1>
-<h3 align="center">A passionate junior polymath from Turkey</h3>
+
+<p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=5900&color=19BF33&background=22552200&center=true&vCenter=true&width=500&lines=A+Passionate+Junior+Polymath+From+Turkey" alt="Typing SVG" /></a>
+</p>
 
 ⚡ **I'm new to this world. I teach many different courses in the field of Vocational education and training in an institution. Since I believe that a teacher should be the best learner, I want to develop and learn about technologies that we hear a lot in different fields today. I want to increase my awareness and be an inspiration to the community. On the other hand, I am doing a master's in engineering, I am at the thesis stage and my thesis topic is "Machine Learning Modeling of Single Band GSM RF Energy Harvesting Potential of a Region"... Therefore, I will share about what I learned in my master classes and academic issues to be useful to the community. I want to create a profile for myself in this new world. Kind regards** ⚡
 
