@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Technologies, Automation Systems Programming and Energ Harvesting(MSc Thesis)**
 
-- 📝 I regularly write articles on https://medium.com/@jazari
+- 📝 I regularly write articles on https://medium.com/@blaundus
 
 - 💬 Ask me about **Siemens S7-1200, MERN Stack Techs, AI**
 
